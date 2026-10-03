@@ -7,4 +7,9 @@ Inside a computer, all the elements are like our body: the motherboard is the sk
 - Now, all components need to be fully functional and present. This is also something UEFI or BIOS can do for us; it tests all the components to make sure they are working properly and that everything the system needs is available.
 - In the 'Select Boot Device' step, UEFI is involved again. Now it starts prioritizing and specifying which storage devices to check first in order to boot up our operating system.
 - Once the system identifies the boot device, the bootloader is initiated to copy the Operating System from storage into Random Access Memory (RAM). After the OS is fully loaded, UEFI relinquishes hardware control to the Operating System.
-### how
+## Type of Computers :
+You might think that computers are just laptops and desktops, but there are many types of computers out there. There are stationary computers that stay in one place, like desktops, and portable ones that we can take with us anywhere, like laptops. Now you should know all the main types of computers:
+-Laptop: The first type that we all know. It comes with a screen and a keyboard, and you can take it anywhere with you to perform various tasks.
+-Desktop: The second type, which stays fixed in one place. It is larger in size, which allows for better cooling, but it also requires more power.
+-Workstation: The third type. It is also fixed in one place, but it delivers high performance for heavy, demanding software and complex workloads.
+-Server: The fourth type. It provides multiple services over a network, which makes it large in size, equipped with a huge amount of RAM, and in need of high-performance cooling.
